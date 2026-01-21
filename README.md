@@ -1,2 +1,2 @@
 # New Project
-This project was created from local system.reated by Shaheera.S
+This project was created from local system. Created by Shaheera.S
